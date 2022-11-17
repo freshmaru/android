@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632770418021",
+    "project_id": "direct-plateau-367114",
+    "storage_bucket": "direct-plateau-367114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632770418021:android:ec128a65263bffa1273d8c",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632770418021-ik7qcamjj0midq8nn6emv0eipuagonbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOytyRKJeRnH9BohMxQgHRHztM062Xp9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632770418021-ik7qcamjj0midq8nn6emv0eipuagonbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
